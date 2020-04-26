@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://github.com/EVE944/EVE944.github.io--buildDrafts/about/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://github.com/EVE944/EVE944.github.io--buildDrafts/post/contributing/</loc>
+  </url>
+  
+  <url>
+    <loc>https://github.com/EVE944/EVE944.github.io--buildDrafts/post/license/</loc>
+  </url>
+  
+  <url>
+    <loc>https://github.com/EVE944/EVE944.github.io--buildDrafts/post/readme/</loc>
+  </url>
+  
+  <url>
+    <loc>https://github.com/EVE944/EVE944.github.io--buildDrafts/categories/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://github.com/EVE944/EVE944.github.io--buildDrafts/fr/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://github.com/EVE944/EVE944.github.io--buildDrafts/categories/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://github.com/EVE944/EVE944.github.io--buildDrafts/post/</loc>
+  </url>
+  
+  <url>
+    <loc>https://github.com/EVE944/EVE944.github.io--buildDrafts/tags/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://github.com/EVE944/EVE944.github.io--buildDrafts/fr/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://github.com/EVE944/EVE944.github.io--buildDrafts/tags/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://github.com/EVE944/EVE944.github.io--buildDrafts/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://github.com/EVE944/EVE944.github.io--buildDrafts/fr/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://github.com/EVE944/EVE944.github.io--buildDrafts/"
+                />
+  </url>
+  
+</urlset>

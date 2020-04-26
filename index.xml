@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Welcome to</title>
+    <link>https://github.com/EVE944/EVE944.github.io--buildDrafts/</link>
+    <description>Recent content on Welcome to</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
+    
+	<atom:link href="https://github.com/EVE944/EVE944.github.io--buildDrafts/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title></title>
+      <link>https://github.com/EVE944/EVE944.github.io--buildDrafts/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://github.com/EVE944/EVE944.github.io--buildDrafts/about/</guid>
+      <description>The Theme is belong to Jane Doe</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://github.com/EVE944/EVE944.github.io--buildDrafts/post/contributing/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://github.com/EVE944/EVE944.github.io--buildDrafts/post/contributing/</guid>
+      <description>How to contribute If you spot any bugs, please use Issue Tracker or if you want to add a new feature directly please create a new Pull Request.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://github.com/EVE944/EVE944.github.io--buildDrafts/post/license/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://github.com/EVE944/EVE944.github.io--buildDrafts/post/license/</guid>
+      <description>The MIT License (MIT)
+Original work Copyright (c) 2018 Track3Original work Copyright (c) 2019 panrModified work Copyright (c) 2019 Djordje AtlialpPermission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the &amp;ldquo;Software&amp;rdquo;), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://github.com/EVE944/EVE944.github.io--buildDrafts/post/readme/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://github.com/EVE944/EVE944.github.io--buildDrafts/post/readme/</guid>
+      <description>Hello Friend NG General informations This theme was highly inspired by the hello-friend and hermit. A lot of kudos for theier great work.
+Features  Theming: dark/light mode, depending on your preferences (dark is default, but you can change it) Great reading experience thanks to Inter UI font, made by Rasmus Andersson Nice code highlighting thanks to PrismJS An easy way to modify the theme with Hugo tooling Fully responsive Support for social icons  How to start You can download the theme manually by going to https://github.</description>
+    </item>
+    
+  </channel>
+</rss>
